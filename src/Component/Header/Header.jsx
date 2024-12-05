@@ -61,7 +61,7 @@ function Header() {
             </h3>
           </li>
           <li className='section__item' data-aos="zoom-in" >
-          <i class="fa-solid fa-award"></i>
+          <i class="fa-solid fa-money-bill-wave"></i>
             <h3 className='section__name'>
             {t('header.text4')}
             </h3>
@@ -104,7 +104,7 @@ function Header() {
       <div className='container location__container'>
         <div className="location__left">
           <h2 className="location__title">
-            Qulay locatsiyada joylashgan maktabda o'qing
+            {t('header.text8')}
           </h2>
         </div>
         <iframe id="map"

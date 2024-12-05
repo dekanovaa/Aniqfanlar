@@ -1,12 +1,13 @@
 {
     "navbar":{
-        "link1":"Asosiy sahiha",
+        "link1":"Asosiy sahifa",
         "link2":"Biz haqimizda",
         "link3":"Natijalar",
         "link4":"Kurslar",
         "btn":"Birinchi qadamni bosing"
     },
     "header":{
+
         "title1":"Biz bilan ",
         "title2":"aniq",
         "title3":"to'g'ri va",
@@ -23,12 +24,13 @@
         "text4":"Hamyonbob narxlar va kurs uchun grantlar",
         "text5":"Ahil jamoa va dars uchun qulay atmosfera",
         "text6":"Doimiy nazorat qo'llab quvvatlash",
-        "text7":"1000 dan ziyod abiturientlarni talabalikka kuzatganmiz"
+        "text7":"1000 dan ziyod abiturientlarni talabalikka kuzatganmiz",
+        "text8":"Qulay locatsiyada joylashgan maktabda o'qing"
 
     },
     "footer":{
         "text1":"Telegram guruhimiz",
-        "text2":"Yutubdagi darslarimiz",
+        "text2":"YouTubedagi darslarimiz",
         "text3":"Bizning manzilimiz",
         "text4":"Biz bilan bog'laning",
         "text5":"MATEMATIKAGA IQTISOSLASHGAN O'QUV MARKAZI"
